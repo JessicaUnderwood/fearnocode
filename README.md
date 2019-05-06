@@ -1,2 +1,2 @@
 # fearnocode
-Websire for Fear No Code
+Website for Fear No Code
